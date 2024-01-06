@@ -13,8 +13,8 @@ Welcome to the TechCareerChatbot, an innovative command-line tool designed to gu
 
 
 ## Prerequisites:
--API key from openAI API key
--Python version 3.8.8 or greater
+- **OpenAI API Key:** API key from OpenAI. You can obtain it by registering on the [OpenAI website](https://openai.com/).
+- **Python Version:** 3.8.8 or greater.
 
 
 ## Depedencies for this program:
@@ -36,7 +36,6 @@ To install the necessary dependencies for this project, run the following comman
    Execute the main script from root directory:
    ```bash
    python src/main.py
-
 
 ## Future Enhancements:
 
